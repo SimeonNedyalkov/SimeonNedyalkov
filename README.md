@@ -11,7 +11,7 @@
             <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
         </div>
             <h2>About me:</h2>
-            <h4>Gratuated Software university - 2024 <a href="https://softuni.bg/certificates/details/225822/e1efcc4e"><img src="https://th.bing.com/th/id/OIP.J406ZAV8zDsX0WJb94_-vAHaCF?rs=1&pid=ImgDetMain" width="30" height="30"></a></h4>
+            <h4>Gratuated Software university - 2024 <a href="https://softuni.bg/certificates/details/225822/e1efcc4e"><img src="https://platform.softuni.bg/content/images/circle-logos/softuni-logo.png" width="30" height="30"></a></h4>
             <ul align="left">
                 <li>:zap: All of my projects are available at:</br> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
