@@ -7,10 +7,9 @@
             <h3>Software Engineer from Bulgaria</h3>
         </div>
         <div id="here" style="display:block;">
-        <div style="display: flex; justify-content: space-between;">
-  <div><strong>Project A</strong></div>
-  <div><strong>Project B</strong></div>
-</div>
+        <div id="header" align="right" style="flex: 0 0 auto; display:inline:block">
+            <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
+        </div>
             <ul align="left">
                 <li> All of my projects are available at:</br> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
