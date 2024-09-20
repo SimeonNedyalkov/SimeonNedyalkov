@@ -1,8 +1,10 @@
 <div align="center">
 <h1>Hi there 👋, I'm Simeon Nedyalkov</h1>
 </div>
-
-<div id="header" align="center">
+<div>
+<h3>Software Engineer from Bulgaria</h3>
+</div>
+<div id="header" align="end">
   <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
 </div>
 
