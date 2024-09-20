@@ -35,7 +35,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
         </div>
     </div>
-    
     <div id="header" align="right" style="flex: 0 0 auto;">
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
     </div>
