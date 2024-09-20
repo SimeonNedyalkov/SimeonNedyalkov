@@ -4,8 +4,8 @@
 <div align="center">
     <h3>Software Engineer from Bulgaria</h3>
 </div>
-<div>
-<ul>
+<div style="display:flex">
+<ul align="start">
 <li> All of my projects are available at https://github.com/SimeonNedyalkov?tab=repositories
 </li>
 <li>How to reach me: simeon.nedyalkovv@gmail.com</li>
