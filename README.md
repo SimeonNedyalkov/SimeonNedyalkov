@@ -7,16 +7,16 @@
             <h3>Software Engineer from Bulgaria</h3>
         </div>
         <div id="here" style="display:block;">
-        <div id="header" align="right" display="inline:block">
+        <div id="header" align="center" display="inline:block">
             <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
         </div>
             <ul align="left">
-                <li> All of my projects are available at:</br> 
+                <li>:zap: All of my projects are available at:</br> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
                         github.com/SimeonNedyalkov
                     </a>
                 </li>
-                <li>How to reach me:</br> simeon.nedyalkovv@gmail.com</li>
+                <li>:mailbox: How to reach me:</br> simeon.nedyalkovv@gmail.com</li>
             </ul>
             <h3>Connect with me:</h3>
             <a href="https://www.linkedin.com/in/simeon-nedyalkov-3a62b616a/" target="_blank">
