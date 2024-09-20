@@ -7,10 +7,14 @@
             <h3>Software Engineer from Bulgaria</h3>
         </div>
         <div id="here" style="display:block;">
-        <div style="flex: 0 0 auto; display:inline:block">Hello world 👋</div>
-        <div id="header" align="right" style="flex: 0 0 auto; display:inline:block">
+        <table>
+        <tr>
+        <th><div style="flex: 0 0 auto; display:inline:block">Hello world 👋</div></th>
+        <th><div id="header" align="right" style="flex: 0 0 auto; display:inline:block">
             <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
-        </div>
+        </div></th>
+        </tr>
+        </table>
             <ul align="left">
                 <li> All of my projects are available at:</br> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
