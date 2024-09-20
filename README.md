@@ -13,9 +13,9 @@
             <h2>:man_technologist: About me:</h2>
             <h4>Gratuated Software University in 2024 - Link to diploma: <a href="https://softuni.bg/certificates/details/225822/e1efcc4e"><img src="https://th.bing.com/th/id/R.8528a9cf9f9e127da4a9b010e80c28bb?rik=1aCBplOc2jQAjw&riu=http%3a%2f%2fconf.softuni.bg%2fwp-content%2fuploads%2f2015%2f01%2fSoftUni-Logo-Flat_square-blue-300x235.png&ehk=VEckXBB3691fbUwdUteHGLY2KJIpUFZXBUHxEZIHInY%3d&risl=&pid=ImgRaw&r=0" width="30" height="30"></a></h4>
             <ul align="left">
-                <li>:zap: <strong><bold>All of my projects are available at:</bold></strong></br> 
+                <li>:zap: <strong><bold>All of my projects are available at:</bold></strong> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
-                        <strong>github.com/SimeonNedyalkov</strong>
+                        <strong></br>github.com/SimeonNedyalkov</strong>
                     </a>
                 </li>
                 <li>:mailbox: <strong><bold>How to reach me:</bold</br> simeon.nedyalkovv@gmail.com</strong></li>
