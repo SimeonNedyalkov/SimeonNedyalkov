@@ -12,7 +12,7 @@
     <li>How to reach me:</br> simeon.nedyalkovv@gmail.com</li>
     </ul>
     <div id="header" align="right">
-    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
+    <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" height="420"/>
     </div>
     </div>
 </div>
