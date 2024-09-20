@@ -39,6 +39,10 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
         </div>
+        <div>
+        <h1>:fire: My Stats:</h1>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimeonNedyalkov">
+        </div>
     </div>
 </div>
 
