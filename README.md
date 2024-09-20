@@ -7,6 +7,9 @@
             <h3>Software Engineer from Bulgaria</h3>
         </div>
         <div id="here" style="display:block;">
+        <div id="header" align="right" style="flex: 0 0 auto;">
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
+    </div>
             <ul align="left">
                 <li> All of my projects are available at:</br> 
                     <a href="https://github.com/SimeonNedyalkov?tab=repositories" target="_blank">
@@ -34,9 +37,6 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
         </div>
-    </div>
-    <div id="header" align="right" style="flex: 0 0 auto;">
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
     </div>
 </div>
 
