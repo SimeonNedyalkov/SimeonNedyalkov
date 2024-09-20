@@ -18,6 +18,8 @@
         <a href="https://www.facebook.com/profile.php?id=100001718120923">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="simeon nedyalkov" height="30" width="40" style="max-width: 100%;">
          </a>
+         <h3>Languages and Tools: </h3>
+         <i class="devicon-javascript-plain colored"></i>
     <div id="header" align="right">
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
     </div>
