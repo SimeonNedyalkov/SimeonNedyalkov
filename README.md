@@ -10,7 +10,7 @@
         <div id="header" align="center" display="inline:block">
             <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300" />
         </div>
-            <h2>About me:</h2>
+            <h2>:man_technologist: About me:</h2>
             <h4>Gratuated Software university - 2024 <a href="https://softuni.bg/certificates/details/225822/e1efcc4e"><img src="https://th.bing.com/th/id/R.8528a9cf9f9e127da4a9b010e80c28bb?rik=1aCBplOc2jQAjw&riu=http%3a%2f%2fconf.softuni.bg%2fwp-content%2fuploads%2f2015%2f01%2fSoftUni-Logo-Flat_square-blue-300x235.png&ehk=VEckXBB3691fbUwdUteHGLY2KJIpUFZXBUHxEZIHInY%3d&risl=&pid=ImgRaw&r=0" width="30" height="30"></a></h4>
             <ul align="left">
                 <li>:zap: All of my projects are available at:</br> 
