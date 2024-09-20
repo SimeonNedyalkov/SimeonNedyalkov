@@ -42,8 +42,8 @@
         <div>
         <h1>:fire: My Stats:</h1>
         <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SimeonNedyalkov" alt="GitHub Streak" /></a>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonNedyalkov">
         </div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonNedyalkov">
     </div>
 </div>
 
