@@ -20,6 +20,8 @@
          </a>
          <h3>Languages and Tools: </h3>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" max-width="100%" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" max-width="100%" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" max-width="100%" />
     <div id="header" align="right">
     <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="300"/>
     </div>
