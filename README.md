@@ -41,7 +41,7 @@
         </div>
         <div>
         <h1>:fire: My Stats:</h1>
-        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SimeonNedyalkov)](https://git.io/streak-stats)
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SimeonNedyalkov" alt="GitHub Streak" /></a>
         </div>
     </div>
 </div>
